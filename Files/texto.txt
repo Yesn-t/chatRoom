@@ -1,0 +1,4 @@
+En esta guía, se a demostrado que, de hecho, es posible que Arduino haga malabarismos con varias tareas independientes sin dejar de responder a eventos externos como la entrada del usuario.
+Hemos aprendido a cronometrar las cosas usando delay () para que podamos liberar el procesador para hacer otras cosas.
+Hemos aprendido cómo definir tareas como subprocesos que pueden ejecutarse independientemente de otros al mismo tiempo.Y hemos aprendido cómo encapsular estos hilos en funciones para mantener nuestro código simple y modular.
+Estas técnicas no convertirán su Arduino en una supercomputadora. Pero te ayudarán a sacar el máximo provecho de este pequeño procesador pequeño, pero sorprendentemente poderoso.
